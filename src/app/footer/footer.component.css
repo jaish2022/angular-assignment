@@ -1,0 +1,61 @@
+:host{
+    background: gray;
+    display: block;
+    padding: 1%;
+}
+
+footer>div{
+    display: inline-block;
+    color: #FFF;
+}
+.col-1{
+    width: 50%;
+    text-align: center;
+    float: left;
+    height: 350px;
+}
+.col-2{
+    top: 73px;
+    height: 350px;
+    width: 25%;
+    color: white;
+    padding: 2px;
+   position: inherit;
+   float: left;
+}
+.col-3{
+    width: 25;
+    height: 350px;
+}
+.contact-design{
+    position: absolute;
+    left: 22%;
+    background: black;
+    margin-top: -36px;
+    width: 100px;
+}
+footer hr{
+    margin: 25px;
+}
+.address>div{
+    display: inline-block;
+    width: 42%;
+    text-align: left;
+}
+.contect{
+    display: inherit;
+    padding: 20px;
+    margin-right: 40%;
+    /* margin-left: 20%; */
+}
+.contect>div{
+    display: contents;
+}
+.sign{
+    padding: 1%;
+    margin-left: 10px;
+}
+.sign img{
+    position: absolute;
+    right: 50px;
+}

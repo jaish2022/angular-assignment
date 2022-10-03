@@ -1,0 +1,20 @@
+img{
+    border: 1px solid black;
+    width: 75px;
+    height: 75px;
+    margin-top: 2px;
+    border-radius: 100%;
+    margin-left: 4%;
+   
+}
+:host{
+    width: 50%;
+    height: 50%;
+    display: block;
+    float: left;
+}
+
+/* .logo{
+    width: 50%;
+    height: 50%;
+} */
